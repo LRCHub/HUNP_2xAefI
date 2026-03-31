@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ライアーダンス (シドウ Cover)",
+  "base_artist": "MILGRAM シドウ (CV: 仲村宗悟)",
+  "createdAt": "2026-03-31T12:15:54.083573Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ライアーダンス - シドウ Cover",
+      "artist": "MILGRAM シドウ (CV: 仲村宗悟)",
+      "has_synced": false,
+      "path": "select/pl_01_ライアーダンス_-_シドウ_Cover_MILGRAM_シドウ_(CV__仲村宗悟).txt"
+    }
+  ]
+}
